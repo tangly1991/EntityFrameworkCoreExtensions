@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ame.EntityFrameworkCore.Extensions</id>
+    <version>5.0.0</version>
+    <authors>糖糖</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <repository type="GitHub" url="https://github.com/tangly1991/EntityFrameworkCoreExtensions.git" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\bin\Release\net5.0\Ame.EntityFrameworkCore.Extensions.dll" target="lib\net5.0\Ame.EntityFrameworkCore.Extensions.dll" />
+  </files>
+</package>

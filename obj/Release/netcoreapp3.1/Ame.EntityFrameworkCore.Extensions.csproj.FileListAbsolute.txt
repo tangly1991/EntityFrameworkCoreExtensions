@@ -1,0 +1,9 @@
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\bin\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.deps.json
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\bin\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.dll
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\bin\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.pdb
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\obj\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.csprojAssemblyReference.cache
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\obj\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.AssemblyInfoInputs.cache
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\obj\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.AssemblyInfo.cs
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\obj\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.csproj.CoreCompileInputs.cache
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\obj\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.dll
+E:\www\asp.net\Ame.EntityFrameworkCore.Extensions\obj\Release\netcoreapp3.1\Ame.EntityFrameworkCore.Extensions.pdb
